@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KimNielsen11
 - 👀 I’m interested in theoretical computer science and vr.
 - 🌱 I’m currently studying for my bachelor in computer science.
-- 💞️ I’m looking to collaborate on everything vr.
+- 💞️ I’m looking to collaborate on...
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: ...
 
